@@ -1,0 +1,10 @@
+14:42:37 **** Incremental Build of configuration Debug for project FlashEEPROM ****
+make -j4 all 
+arm-none-eabi-size   FlashEEPROM.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9088	    128	   1800	  11016	   2b08	FlashEEPROM.elf
+Finished building: default.size.stdout
+ 
+
+14:42:38 Build Finished. 0 errors, 0 warnings. (took 395ms)
+
